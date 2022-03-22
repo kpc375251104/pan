@@ -24,15 +24,15 @@
 			<key>PayloadDisplayName</key>
 			<string>Wi-Fi</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.wifi.managed.AED1643B-427F-4190-9558-D3CD6F30FFA5</string>
+			<string>com.apple.wifi.managed.A9151186-F34F-43D0-8C7C-032012CD24C3</string>
 			<key>PayloadType</key>
 			<string>com.apple.wifi.managed</string>
 			<key>PayloadUUID</key>
-			<string>AED1643B-427F-4190-9558-D3CD6F30FFA5</string>
+			<string>A9151186-F34F-43D0-8C7C-032012CD24C3</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyServer</key>
-			<string>192.169.31.175</string>
+			<string>192.168.31.175</string>
 			<key>ProxyServerPort</key>
 			<integer>7890</integer>
 			<key>ProxyType</key>
@@ -44,13 +44,13 @@
 	<key>PayloadDisplayName</key>
 	<string>VPN</string>
 	<key>PayloadIdentifier</key>
-	<string>MacBook-Pro.CD1C8407-0522-4A66-BDED-8E1381E55E12</string>
+	<string>MacBook-Pro.7E63FDCD-9D51-4930-AAE6-4DD8AF77E343</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>D63D7D67-4C22-477F-A6AC-D8A24475D543</string>
+	<string>DEA991A6-E299-4B34-B9F4-4E47DBFA227D</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
